@@ -7,3 +7,12 @@ The application should provide the facility to:
 4. Retire an existing customer; delete a customer from the system only if the balance is below $30
 5. Allow the display of all customers
 6. Allow the user/cashier to quit the application
+
+
+The customers below should be present in the system. Store this data in your program in a nested dictionary object with appropriate keys and perform the required transactions on them.
+
+custID 	Name	Cash Balance
+C01	Jane		5500
+C02	Suzanne	6200
+C03	Martha		5800
+C04	Tom		7000
